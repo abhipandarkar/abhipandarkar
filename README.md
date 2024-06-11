@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Languages:</h4>
-<div align="left" style="display: flex; justify-content: flex-start;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="border: 1px solid #ddd; padding: 10px; margin: 5px; text-align: center; width: 100px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 <h4 align="left">Tools:</h4>
-<div align="left" style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="border: 1px solid #ddd; padding: 10px; margin: 5px; text-align: center; width: 100px;">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -114,5 +114,6 @@ Here are some ideas to get you started:
     <div>TensorFlow</div>
   </div>
 </div>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhipandarkar&show_icons=true&locale=en&layout=compact" alt="abhipandarkar" /></p>
